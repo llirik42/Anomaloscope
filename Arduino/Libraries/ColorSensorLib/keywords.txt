@@ -1,0 +1,3 @@
+ColorSensorLib	KEYWORD1 
+Sensor	KEYWORD1 
+GetSensorColor KEYWORD2 
